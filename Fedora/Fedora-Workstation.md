@@ -51,6 +51,7 @@ All extensions saved at my Firefox Bookmark Toolbar but I put my list here for a
 - https://extensions.gnome.org/extension/5090/space-bar/
 
 Optional extensions:
+- https://extensions.gnome.org/extension/307/dash-to-dock/
 - https://extensions.gnome.org/extension/3193/blur-my-hell/
 - https://extensions.gnome.org/extension/5500/auto-activities/
 - https://extensions.gnome.org/extension/7048/rounded-window-corners-reborn/
