@@ -80,6 +80,8 @@ Optional extensions:
 Optional:
 - Vivaldi Browser: a fun web browser.
     - https://vivaldi.com/download/
+- Zed editor: an open source, high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+    - https://zed.dev/download
 - Cloudflare WARP (1.1.1.1): a free Domain Name System service.
     - https://pkg.cloudflareclient.com/
     - https://developers.cloudflare.com/warp-client/get-started/linux/
