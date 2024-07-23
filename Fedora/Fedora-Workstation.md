@@ -45,10 +45,11 @@ All extensions saved at my Firefox Bookmark Toolbar but I put my list here for a
 - https://extensions.gnome.org/extension/5446/quick-settings-tweaker/
 - https://extensions.gnome.org/extension/1401/bluetooth-quick-connect/
 - https://extensions.gnome.org/extension/18/native-window-placement/
-- https://extensions.gnome.org/extension/779/clipboard-indicator/
+- https://extensions.gnome.org/exextensiontension/779/clipboard-indicator/
 - https://extensions.gnome.org/extension/4470/media-controls/
 - https://extensions.gnome.org/extension/6242/emoji-copy/
 - https://extensions.gnome.org/extension/5090/space-bar/
+- https://extensions.gnome.org/extension/675/lunar-calendar/
 
 Optional extensions:
 - https://extensions.gnome.org/extension/307/dash-to-dock/
