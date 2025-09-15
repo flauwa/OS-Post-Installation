@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Battery_battery_additional</key>
+	<string>innerPercentage</string>
+	<key>Battery_battery_chargerInside</key>
+	<false/>
+	<key>Battery_battery_color</key>
+	<true/>
+	<key>Battery_battery_hideAdditionalWhenFull</key>
+	<true/>
+	<key>Battery_battery_xlSize</key>
+	<true/>
+	<key>Battery_color</key>
+	<true/>
+	<key>Battery_processes</key>
+	<integer>8</integer>
+	<key>Battery_state</key>
+	<true/>
+	<key>Battery_timeFormat</key>
+	<string>short</string>
+	<key>Bluetooth_sensors_mode</key>
+	<string>automatic</string>
+	<key>Bluetooth_state</key>
+	<false/>
+	<key>CPU_mini_color</key>
+	<string>green</string>
+	<key>CPU_state</key>
+	<true/>
+	<key>Disk_state</key>
+	<false/>
+	<key>GPU_gpu</key>
+	<string>automatic</string>
+	<key>GPU_mini_color</key>
+	<string>yellow</string>
+	<key>GPU_state</key>
+	<true/>
+	<key>GPU_updateInterval</key>
+	<integer>1</integer>
+	<key>LaunchAtLoginNext</key>
+	<true/>
+	<key>NSOSPLastRootDirectory</key>
+	<data>
+	Ym9va8QCAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnAEA
+	AAQAAAADAwAAAAQAAAUAAAABAQAAVXNlcnMAAAAJAAAAAQEAAGtoYW5odGNhbQAAAAgA
+	AAABBgAAEAAAACAAAAAIAAAABAMAAORQAAAAAAAACAAAAAQDAACydQAAAAAAAAgAAAAB
+	BgAARAAAAFQAAAAIAAAAAAQAAEHHEzhD+qDUGAAAAAECAAACAAAAAAAAAB8CAAAAAAAA
+	HwIAAAAAAAAAAAAAAQUAAAgAAAAEAwAAAAAAAAAAAAAEAAAAAwMAAPUBAAAIAAAAAQkA
+	AGZpbGU6Ly8vDAAAAAEBAABNYWNpbnRvc2ggSEQIAAAABAMAAAAAhxE5AAAACAAAAAAE
+	AABBxuOahQAAACQAAAABAQAANzYwNjhGNzUtQTI1Ny00NzYyLTk2MjMtNjdENEQ0OEI2
+	QThBGAAAAAECAACBAAAAAQAAAO8TAAABAAAA7xMAAAEAAAABAAAAAQEAAC8AAAAwAAAA
+	AQIAAGRuaWIAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGRsZnUCAAAAAAAA
+	APAAAAD+////AQAAAAAAAAATAAAABBAAADQAAAAAAAAABRAAAGQAAAAAAAAAEBAAAIQA
+	AAAAAAAAQBAAAHQAAAAAAAAAAiAAAFgBAAAAAAAABSAAAMgAAAAAAAAAECAAANgAAAAA
+	AAAAESAAAAwBAAAAAAAAEiAAAOwAAAAAAAAAEyAAAPwAAAAAAAAAICAAADgBAAAAAAAA
+	MCAAAKQAAAAAAAAAAcAAAKwAAAAAAAAAEcAAACAAAAAAAAAAEsAAALwAAAAAAAAAAdAA
+	AKQAAAAAAAAAENAAAAQAAAAAAAAAF/AAACAAAAAAAAAAIvAAAGQBAAAAAAAA
+	</data>
+	<key>NSStatusItem Preferred Position Battery_battery</key>
+	<real>177</real>
+	<key>NSStatusItem Preferred Position CPU_mini</key>
+	<real>563</real>
+	<key>NSStatusItem Preferred Position GPU_mini</key>
+	<real>516</real>
+	<key>NSStatusItem Preferred Position Network_speed</key>
+	<real>351</real>
+	<key>NSStatusItem Preferred Position RAM_mini</key>
+	<real>469</real>
+	<key>NSStatusItem Preferred Position Sensors_mini</key>
+	<real>422</real>
+	<key>NSStatusItem Restore Position Disk_mini</key>
+	<integer>393</integer>
+	<key>NSToolbar Configuration eu.exelban.Stats.Settings.Toolbar</key>
+	<dict>
+		<key>TB Display Mode</key>
+		<integer>1</integer>
+		<key>TB Icon Size Mode</key>
+		<integer>1</integer>
+		<key>TB Is Shown</key>
+		<true/>
+		<key>TB Size Mode</key>
+		<integer>1</integer>
+	</dict>
+	<key>NSWindow Frame NSNavPanelAutosaveName</key>
+	<string>1065 939 430 163 0 0 2560 1415 </string>
+	<key>Network_downloadColor</key>
+	<string>teal</string>
+	<key>Network_label_position</key>
+	<integer>1</integer>
+	<key>Network_networkChart_position</key>
+	<integer>2</integer>
+	<key>Network_publicIP</key>
+	<false/>
+	<key>Network_reverseOrder</key>
+	<false/>
+	<key>Network_speed_displayValue</key>
+	<string>io</string>
+	<key>Network_speed_downloadColor</key>
+	<string>teal</string>
+	<key>Network_speed_iconColor</key>
+	<string>default</string>
+	<key>Network_speed_mode</key>
+	<string>twoRows</string>
+	<key>Network_speed_monochrome</key>
+	<false/>
+	<key>Network_speed_position</key>
+	<integer>0</integer>
+	<key>Network_speed_uploadColor</key>
+	<string>pink</string>
+	<key>Network_state</key>
+	<true/>
+	<key>Network_state_position</key>
+	<integer>3</integer>
+	<key>Network_text_position</key>
+	<integer>4</integer>
+	<key>Network_uploadColor</key>
+	<string>pink</string>
+	<key>Network_widget</key>
+	<string>speed</string>
+	<key>RAM_combinedProcesses</key>
+	<false/>
+	<key>RAM_mini_color</key>
+	<string>magenta</string>
+	<key>RAM_state</key>
+	<true/>
+	<key>Sensor_mini_color</key>
+	<string>utilization</string>
+	<key>Sensors_barChart_position</key>
+	<integer>3</integer>
+	<key>Sensors_fanValue</key>
+	<string>percentage</string>
+	<key>Sensors_fansSync</key>
+	<false/>
+	<key>Sensors_hid</key>
+	<true/>
+	<key>Sensors_label_position</key>
+	<integer>1</integer>
+	<key>Sensors_mini_position</key>
+	<integer>0</integer>
+	<key>Sensors_sensor</key>
+	<string>Average CPU</string>
+	<key>Sensors_sensors_monospacedFont</key>
+	<false/>
+	<key>Sensors_sensors_size</key>
+	<false/>
+	<key>Sensors_speed</key>
+	<false/>
+	<key>Sensors_stack_position</key>
+	<integer>2</integer>
+	<key>Sensors_state</key>
+	<true/>
+	<key>Sensors_unknown</key>
+	<false/>
+	<key>Sensors_updateInterval</key>
+	<integer>3</integer>
+	<key>Sensors_widget</key>
+	<string>mini</string>
+	<key>ble_c7-ef-b8-30-89-28</key>
+	<false/>
+	<key>dockIcon</key>
+	<false/>
+	<key>pause</key>
+	<false/>
+	<key>remote_monitoring</key>
+	<true/>
+	<key>runAtLoginInitialized</key>
+	<true/>
+	<key>sensor_ANE Power_popup</key>
+	<false/>
+	<key>sensor_Average System Total</key>
+	<true/>
+	<key>sensor_CPU Power</key>
+	<true/>
+	<key>sensor_GPU Power</key>
+	<true/>
+	<key>sensor_Hottest SOC_popup</key>
+	<false/>
+	<key>sensor_ID0R</key>
+	<false/>
+	<key>sensor_ISP MTR Temp Sensor5_popup</key>
+	<false/>
+	<key>sensor_PCI Power_popup</key>
+	<false/>
+	<key>sensor_PDTR</key>
+	<true/>
+	<key>sensor_PMGR SOC Die Temp Sensor0_popup</key>
+	<false/>
+	<key>sensor_PMGR SOC Die Temp Sensor1_popup</key>
+	<false/>
+	<key>sensor_PMGR SOC Die Temp Sensor2_popup</key>
+	<false/>
+	<key>sensor_PMU TP3w_popup</key>
+	<false/>
+	<key>sensor_PMU VP0u_popup</key>
+	<false/>
+	<key>sensor_PMU tcal_popup</key>
+	<false/>
+	<key>sensor_PMU tdev3_popup</key>
+	<false/>
+	<key>sensor_PMU tdev4_popup</key>
+	<false/>
+	<key>sensor_PMU tdev5_popup</key>
+	<false/>
+	<key>sensor_PMU tdev7_popup</key>
+	<false/>
+	<key>sensor_PMU tdev8_popup</key>
+	<false/>
+	<key>sensor_PMU tdie1_popup</key>
+	<false/>
+	<key>sensor_PMU tdie2_popup</key>
+	<false/>
+	<key>sensor_PMU tdie4_popup</key>
+	<false/>
+	<key>sensor_PMU tdie5_popup</key>
+	<false/>
+	<key>sensor_PMU tdie6_popup</key>
+	<false/>
+	<key>sensor_PMU tdie7_popup</key>
+	<false/>
+	<key>sensor_PMU tdie8_popup</key>
+	<false/>
+	<key>sensor_PMU vldo10_popup</key>
+	<false/>
+	<key>sensor_PMU vldo13_popup</key>
+	<false/>
+	<key>sensor_PMU vldo14_popup</key>
+	<false/>
+	<key>sensor_PMU vldo16_popup</key>
+	<false/>
+	<key>sensor_PMU vldo19_popup</key>
+	<false/>
+	<key>sensor_PMU vldo1_popup</key>
+	<false/>
+	<key>sensor_PMU vldo2_popup</key>
+	<false/>
+	<key>sensor_PMU2 VR0u_popup</key>
+	<false/>
+	<key>sensor_PMU2 tcal_popup</key>
+	<false/>
+	<key>sensor_PMU2 tdev2_popup</key>
+	<false/>
+	<key>sensor_PMU2 tdev4_popup</key>
+	<false/>
+	<key>sensor_PMU2 tdev5_popup</key>
+	<false/>
+	<key>sensor_PMU2 tdie1_popup</key>
+	<false/>
+	<key>sensor_PMU2 tdie2_popup</key>
+	<false/>
+	<key>sensor_PMU2 tdie3_popup</key>
+	<false/>
+	<key>sensor_PMU2 tdie4_popup</key>
+	<false/>
+	<key>sensor_PMU2 tdie5_popup</key>
+	<false/>
+	<key>sensor_PMU2 tdie6_popup</key>
+	<false/>
+	<key>sensor_PMU2 tdie7_popup</key>
+	<false/>
+	<key>sensor_PMU2 tdie8_popup</key>
+	<false/>
+	<key>sensor_PMU2 vldo15_popup</key>
+	<false/>
+	<key>sensor_PMU2 vldo17_popup</key>
+	<false/>
+	<key>sensor_PMU2 vldo18_popup</key>
+	<false/>
+	<key>sensor_PMU2 vldo6_popup</key>
+	<false/>
+	<key>sensor_PPBR</key>
+	<true/>
+	<key>sensor_PSTR</key>
+	<true/>
+	<key>sensor_RAM Power</key>
+	<true/>
+	<key>sensor_SOC MTR Temp Sensor0_popup</key>
+	<false/>
+	<key>sensor_SOC MTR Temp Sensor1_popup</key>
+	<false/>
+	<key>sensor_SOC MTR Temp Sensor2_popup</key>
+	<false/>
+	<key>sensor_TB1T</key>
+	<false/>
+	<key>sensor_TB2T</key>
+	<false/>
+	<key>sensor_TH0x</key>
+	<false/>
+	<key>sensor_TH0x_popup</key>
+	<false/>
+	<key>sensor_TW0P</key>
+	<false/>
+	<key>sensor_TW0P_popup</key>
+	<false/>
+	<key>sensor_Total System Consumption</key>
+	<true/>
+	<key>sensor_VD0R</key>
+	<false/>
+	<key>sensor_VP0R</key>
+	<false/>
+	<key>sensor_gas gauge battery_popup</key>
+	<true/>
+	<key>setupProcess</key>
+	<true/>
+	<key>support_ts</key>
+	<integer>1756484337</integer>
+	<key>telemetry</key>
+	<false/>
+	<key>temperature_units</key>
+	<string>system</string>
+	<key>update-interval</key>
+	<string>Once per week</string>
+	<key>updater_check_ts</key>
+	<integer>1757775565</integer>
+	<key>version</key>
+	<string>2.11.51</string>
+</dict>
+</plist>

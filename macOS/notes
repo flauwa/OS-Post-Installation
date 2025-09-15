@@ -1,0 +1,51 @@
+--Updated: Sep 15, 2025--
+
+Installation Sources:
+   	1. Installer:
+        - Homebrew
+        - League of Legends
+        - Steam
+       	- Proton VPN
+        - VMWare Fusion
+   	2. Homebrew:
+        - Casks: [brew install --cask <something> --verbose]
+            + parsec
+            + tailscale-app
+            + raycast
+            + stats
+            + ms_edge | opera-air/opera | zen | arc/Dia | sigmaos
+            + zed / visual-studio-code (++GitHub Copilot)
+            + obs
+            + spotify
+            + ferdium
+   	    - Formulae: [brew install <something> --verbose]
+            + git
+            + colima (++lima) + docker
+            + stats
+            + obs
+            + python
+            + tailscale (#Install line - 21 first)
+
+        *) For Work:
+            + microsoft-edge
+            + windows-app (or from AppStore)
+   	3. AppStore
+        - Hand Mirror
+       	- Proton Authenticator
+
+
+Folders:
+    Games: Tail Scale, Parsec, Steam, Riot Client, League of Legends.
+    Utilities: Hand Mirror, Raycast, Stats, SigmaOS, Opera-Air, Arc, Dia, Zen, OBS, Spotify, Ferdium, VMWare Fusion, Zed, MS Edge, Proton Authenticator, Proton VPN
+    Work: Windows App
+
+-------------------------
+
+
+/Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app/Contents/MacOS/LeagueClient 
+
+
+cd /Applications/League\ of\ Legends.app/Contents/LoL && nohup LeagueClient.app/Contents/MacOS/LeagueClient
+
+cat /Applications/League\ of\ Legends.app/Contents/LoL/nohup.out
+rm /Applications/League\ of\ Legends.app/Contents/LoL/nohup.out
