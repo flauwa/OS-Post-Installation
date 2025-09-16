@@ -1,4 +1,4 @@
---Updated: Sep 15, 2025--
+--Updated: Sep 17, 2025--
 
 Installation Sources:
    	1. Installer:
@@ -13,26 +13,24 @@ Installation Sources:
             + tailscale-app
             + raycast
             + stats
-            + ms_edge | opera-air/opera | zen | arc/Dia | sigmaos
+            + microsoft-edge | opera-air/opera | zen | arc/Dia | sigmaos
             + zed / visual-studio-code (++GitHub Copilot)
             + obs
             + spotify
+            + windows-app #For work
             + ferdium
    	    - Formulae: [brew install <something> --verbose]
             + git
             + colima (++lima) + docker
-            + stats
-            + obs
             + python
-            + tailscale (#Install line - 21 first)
+            + tailscale #Install cask tailscale-app first
 
         *) For Work:
-            + microsoft-edge
-            + windows-app (or from AppStore)
-   	3. AppStore
+            + microsoft-edge #Installed in homebrew cask
+            + windows-app #Installed in homebrew cask or from App Store
+   	3. App Store
         - Hand Mirror
        	- Proton Authenticator
-
 
 Folders:
     Games: Tail Scale, Parsec, Steam, Riot Client, League of Legends.
