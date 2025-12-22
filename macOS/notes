@@ -1,46 +1,44 @@
---Updated: Sep 17, 2025--
+--Updated: Dec 22, 2025--
 
 Installation Sources:
    	1. Installer:
         - Homebrew
         - League of Legends
         - Steam
-       	- Proton VPN
         - VMWare Fusion
    	2. Homebrew:
         - Casks: [brew install --cask <something> --verbose]
-            + parsec
-            + tailscale-app
             + raycast
             + stats
-            + microsoft-edge | opera-air/opera | zen | arc/Dia | sigmaos
+            + tailscale-app
+            + rustdesk
+            + microsoft-edge
             + zed / visual-studio-code (++GitHub Copilot)
             + obs
             + spotify
-            + windows-app #For work
-            + ferdium
+            + windows-app
+            + vlc
+            + protonvpn
    	    - Formulae: [brew install <something> --verbose]
             + git
-            + colima (++lima) + docker
-            + python
             + tailscale #Install cask tailscale-app first
-
-        *) For Work:
-            + microsoft-edge #Installed in homebrew cask
-            + windows-app #Installed in homebrew cask or from App Store
+            + colima (++lima) + docker
    	3. App Store
         - Hand Mirror
        	- Proton Authenticator
+    *. Optional:
+        - Python (via Homebrew)
+        - PlayCover
 
 Folders:
-    Games: Tail Scale, Parsec, Steam, Riot Client, League of Legends.
-    Utilities: Hand Mirror, Raycast, Stats, SigmaOS, Opera-Air, Arc, Dia, Zen, OBS, Spotify, Ferdium, VMWare Fusion, Zed, MS Edge, Proton Authenticator, Proton VPN
+    Games: Tailscale, Moonlight/Artemis, RustDesk, Steam, Riot Client, League of Legends, (*)PlayCover
+    Utilities: Hand Mirror, Stats, Raycast, OBS, Spotify, VMWare Fusion, MS Edge, Proton Authenticator, Proton VPN, VLC, Zed
     Work: Windows App
 
 -------------------------
 
 
-/Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app/Contents/MacOS/LeagueClient 
+/Applications/League\ of\ Legends.app/Contents/LoL/LeagueClient.app/Contents/MacOS/LeagueClient
 
 
 cd /Applications/League\ of\ Legends.app/Contents/LoL && nohup LeagueClient.app/Contents/MacOS/LeagueClient

@@ -40,6 +40,8 @@
 	<integer>1</integer>
 	<key>LaunchAtLoginNext</key>
 	<true/>
+	<key>NSNavLastRootDirectory</key>
+	<string>~</string>
 	<key>NSOSPLastRootDirectory</key>
 	<data>
 	Ym9va8QCAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnAEA
@@ -58,19 +60,19 @@
 	AKQAAAAAAAAAENAAAAQAAAAAAAAAF/AAACAAAAAAAAAAIvAAAGQBAAAAAAAA
 	</data>
 	<key>NSStatusItem Preferred Position Battery_battery</key>
-	<real>177</real>
+	<real>250</real>
 	<key>NSStatusItem Preferred Position CPU_mini</key>
-	<real>563</real>
-	<key>NSStatusItem Preferred Position GPU_mini</key>
-	<real>516</real>
-	<key>NSStatusItem Preferred Position Network_speed</key>
-	<real>351</real>
-	<key>NSStatusItem Preferred Position RAM_mini</key>
-	<real>469</real>
-	<key>NSStatusItem Preferred Position Sensors_mini</key>
-	<real>422</real>
-	<key>NSStatusItem Restore Position Disk_mini</key>
+	<real>593</real>
+	<key>NSStatusItem Preferred Position Disk_mini</key>
 	<integer>393</integer>
+	<key>NSStatusItem Preferred Position GPU_mini</key>
+	<real>546</real>
+	<key>NSStatusItem Preferred Position Network_speed</key>
+	<real>381</real>
+	<key>NSStatusItem Preferred Position RAM_mini</key>
+	<real>499</real>
+	<key>NSStatusItem Preferred Position Sensors_mini</key>
+	<real>452</real>
 	<key>NSToolbar Configuration eu.exelban.Stats.Settings.Toolbar</key>
 	<dict>
 		<key>TB Display Mode</key>
@@ -83,7 +85,7 @@
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame NSNavPanelAutosaveName</key>
-	<string>1065 939 430 163 0 0 2560 1415 </string>
+	<string>625 646 430 163 0 0 1680 1025 </string>
 	<key>Network_downloadColor</key>
 	<string>teal</string>
 	<key>Network_label_position</key>
@@ -303,7 +305,7 @@
 	<key>setupProcess</key>
 	<true/>
 	<key>support_ts</key>
-	<integer>1756484337</integer>
+	<integer>1766167774</integer>
 	<key>telemetry</key>
 	<false/>
 	<key>temperature_units</key>
@@ -311,8 +313,8 @@
 	<key>update-interval</key>
 	<string>Once per week</string>
 	<key>updater_check_ts</key>
-	<integer>1757775565</integer>
+	<integer>1766171918</integer>
 	<key>version</key>
-	<string>2.11.51</string>
+	<string>2.11.52</string>
 </dict>
 </plist>
